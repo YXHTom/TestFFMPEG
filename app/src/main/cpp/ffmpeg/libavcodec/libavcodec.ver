@@ -1,0 +1,6 @@
+LIBAVCODEC_ {
+    global:
+        av*;
+    local:
+        *;
+};
